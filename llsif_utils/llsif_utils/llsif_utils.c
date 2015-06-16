@@ -25,9 +25,9 @@
 * these should never change unless you switch to JP version
 * TODO: make these customizable
 */
-#define LLSIF_PACKAGE "klb.android.lovelive_en"
+#define LLSIF_PACKAGE "klb.android.lovelive"
 #define LLSIF_ACTIVITY "klb.android.GameEngine.GameEngineActivity"
-#define LLSIF_SHARED_PREFS "/data/data/klb.android.lovelive_en/shared_prefs"
+#define LLSIF_SHARED_PREFS "/data/data/klb.android.lovelive/shared_prefs"
 
 /* starts the game */
 void llsif_start() {
